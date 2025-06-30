@@ -5,7 +5,7 @@
 ````markdown
 # Solução Drástica (Se os Dados Estiverem Corrompidos)
 
-Se nada acima funcionar, os arquivos de dados podem ter sido corrompidos. O XAMPP vem com uma pasta de backup para restaurar o estado inicial do MySQL.
+Se os arquivos de dados podem ter sido corrompidos. O XAMPP vem com uma pasta de backup para restaurar o estado inicial do MySQL.
 
 **Atenção:** este processo irá manter seus bancos de dados, mas é crucial seguir os passos com atenção.
 
